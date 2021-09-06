@@ -10,23 +10,13 @@
 
 | 概要 | URL                                                          | 寸法                                                       |
 | ---- | ------------------------------------------------------------ | --------- |
-| 基板 | https://github.com/e3w2q/ukiha-keyboard/blob/master/pcb/ukiha-gerber.zip?raw=true | 200×88mm |
-| ボトムプレート | https://github.com/e3w2q/ukiha-keyboard/blob/master/pcb/ukiha-bottom-gerber.zip?raw=true | 200×88mm |
+| 基板 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-pcb-gerber.zip?raw=true | 90×90mm |
+| プレート1 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate1-gerber-lead-free.zip?raw=true | 90×90mm |
+| プレート2 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate2-gerber.zip?raw=true | 90×90mm |
+| プレート3 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate3-gerber.zip?raw=true | 90×90mm |
+| プレート4 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate4-gerber-lead-free.zip?raw=true | 90×90mm |
 
-レジスト色はお好みの色を選択してください。
+PCB Colorはお好みの色を選択してください。おすすめは白です。
 
-## ミドルアクリルプレート
+Surface Finishは、プレート1とプレート4はHASL Lead Free（無鉛はんだレベラー）とすることをおすすめします。手に触れうる部分にメッキが露出しているためです。プレート2とプレート3はメッキの露出はないので、HASLで構いません。
 
-### ELECROWへ発注する場合
-
-[ELECROWアクリルカットサービス](https://www.elecrow.com/acrylic-cutting.html)から注文します。
-
-アップロードするガーバーファイルは以下のいずれかを使ってください。
-
-| 概要 | URL                                                          | 寸法                                                        |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 60キー用・中央で分割あり | https://github.com/e3w2q/ukiha-keyboard/blob/master/pcb/ukiha-middle-5x12.zip?raw=true | 100×112mm |
-| 48キー用・中央で分割あり | https://github.com/e3w2q/ukiha-keyboard/blob/master/pcb/ukiha-middle-4x12.zip?raw=true | 100×112mm |
-| 60キー用＋48キー用・中央で分割なし | https://github.com/e3w2q/ukiha-keyboard/blob/master/pcb/ukiha-middle-all.zip?raw=true | 205×99.5mm |
-
-厚みは2.5mmまたはそれ以上としてください。
