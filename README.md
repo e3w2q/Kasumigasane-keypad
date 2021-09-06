@@ -9,15 +9,19 @@ The Kasumigasane is a simple 16-key keypad that can be assembled without diodes.
 
 The *Kasumigasane* (霞襲) means "a layer of misty stuff", because it is made of layers of glass exposi substrates.
 
-![Kasumigasane_photo_by_same](doc/Kasumigasane_photo_by_same.jpg)
+![Kasumigasane2](doc/Kasumigasane2.jpg)
 
 ## Customizability
 
-You can replace the frame with a pattern of your choice.
+You can choose a frame from eight different patterns.
+
+You can decorate the sides with 15mm wide masking tape.
 
 The rightmost column and the lowermost row can use the 2U key.
 
 The upper leftmost key can be replaced by a rotary encoder.
+
+Backlight LED can be soldered.
 
 ## Link
 
