@@ -16,7 +16,10 @@
 | プレート3 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate3-gerber.zip?raw=true | 90×90mm |
 | プレート4 | https://github.com/e3w2q/Kasumigasane-keypad/blob/main/gerber/kasumigasane-plate4-gerber-lead-free.zip?raw=true | 90×90mm |
 
-PCB Colorはお好みの色を選択してください。おすすめは白です。
+PCB Colorはお好みの色を選択してください。
 
-Surface Finishは、プレート1とプレート4はHASL Lead Free（無鉛はんだレベラー）とすることをおすすめします。手に触れうる部分にメッキが露出しているためです。プレート2とプレート3はメッキの露出はないので、HASLで構いません。
+Surface Finishは、プレート1とプレート4はHASL Lead Free（無鉛はんだ）とすることをおすすめします。手に触れうる部分にメッキが露出しているためです。
 
+プレート2とプレート3はメッキの露出はないので、HASLで構いません。
+
+模様を金色にしたい場合はImmersion goldを選択してください。
